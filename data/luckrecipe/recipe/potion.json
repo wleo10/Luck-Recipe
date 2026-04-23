@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:nether_wart",
+    "minecraft:blaze_powder",
+    "minecraft:emerald"
+  ],
+  "result": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": "minecraft:luck"
+    }
+  }
+}

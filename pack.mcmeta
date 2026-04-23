@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 101,
+    "supported_formats": 101,
+    "description": "Luck potion crafting recipe",
+    "min_format": [48, 0],
+    "max_format": [101, 1]
+  }
+}

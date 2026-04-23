@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:lingering_potion",
+    "minecraft:nether_wart",
+    "minecraft:blaze_powder",
+    "minecraft:emerald"
+  ],
+  "result": {
+    "id": "minecraft:lingering_potion",
+    "components": {
+      "minecraft:potion_contents": "minecraft:luck"
+    }
+  }
+}
